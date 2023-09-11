@@ -1,8 +1,1 @@
-### Hello there! I'm DragonAero!
-### I am a game developer and a gamer!
-
-## Languages I use:
-- Python
-  - Godot
- - JavaScript
- - GameMaker
+### Oh hey I'm DragonAero. I'm an internet idiot who makes stuff. Yeah that's it
