@@ -1,3 +1,3 @@
 # Welcome.
 
-I am **DragonAero**. I'm an internet idiot who makes random crap for people.
+I am **DragonAero**. I make digital stuff.
